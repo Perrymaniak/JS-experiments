@@ -1,0 +1,30 @@
+.header{
+	background-color: #2866d8;
+	text-align: center;
+	padding: 20px;
+}
+.topnav{
+	overflow: hidden;
+	background-color: #94b7bc
+}
+.topnav a{
+	float: left;
+	display: block;
+	color: #666666;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.topnav a:hover{
+	background-color: #ffa500;
+	color: black;
+}
+.column{
+	width: 100%;
+	background: grey;
+}
+.footer{
+	background: #94b7bc;
+	text-align: center;
+	padding: 10px;
+}
